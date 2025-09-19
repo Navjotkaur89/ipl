@@ -10,7 +10,7 @@ import warnings
 warnings.filterwarnings('ignore')
 from streamlit_echarts import st_echarts
     
-
+print("hello")
 
 # Set page config
 st.set_page_config(
